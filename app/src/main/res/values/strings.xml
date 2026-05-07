@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JhonatanApp</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="lang_english">English</string>
+    <string name="lang_spanish">Spanish</string>
+    <string name="lang_french">French</string>
+    <string name="lang_german">German</string>
+    <string name="btn_enter">Enter</string>
+    <string-array name="languages_array">
+        <item>@string/lang_english</item>
+        <item>@string/lang_spanish</item>
+        <item>@string/lang_french</item>
+        <item>@string/lang_german</item>
+    </string-array>
+</resources>

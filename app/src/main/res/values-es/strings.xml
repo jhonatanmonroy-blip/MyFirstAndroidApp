@@ -1,0 +1,8 @@
+<resources>
+    <string name="welcome_message">Bienvenido</string>
+    <string name="lang_english">Inglés</string>
+    <string name="lang_spanish">Español</string>
+    <string name="lang_french">Francés</string>
+    <string name="lang_german">Alemán</string>
+    <string name="btn_enter">Entrar</string>
+</resources>
